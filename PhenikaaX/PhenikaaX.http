@@ -1,0 +1,6 @@
+@PhenikaaX_HostAddress = http://localhost:5110
+
+GET {{PhenikaaX_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
